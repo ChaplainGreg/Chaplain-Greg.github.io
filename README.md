@@ -1,2 +1,2 @@
-# Chaplain-Greg.github.io
+# ChaplainGreg.github.io
 Personal webpage for Chaplain Greg
